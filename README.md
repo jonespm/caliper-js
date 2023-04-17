@@ -2,6 +2,8 @@
 
 # caliper-js
 
+****NOTICE: 1EdTech will be moving Caliper to private repositories on June 17, 2023. Access to the repositories will be available for 1EdTech Contributing Members and Affiliates.  We encourage you to get involved in 1EdTech to support the Caliper work and get certified for Caliper.****
+
 The [Caliper Analytics&reg; Specification](https://www.imsglobal.org/caliper/v1p1/caliper-spec-v1p1) 
 provides a structured approach to describing, collecting and exchanging learning activity data at 
 scale. Caliper also defines an application programming interface (the Sensor API&trade;) for marshalling and 
